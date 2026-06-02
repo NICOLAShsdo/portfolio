@@ -6,6 +6,8 @@
 
  Turma: 4o Semestre de 2024
 
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/51c5149e-118b-4b02-8a47-7af2a01d7ce7" />
+
 <img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/d256d663-7ad9-485c-a1fc-c2a872cd2c2b" />
 
 ![image](https://github.com/user-attachments/assets/e9188757-110c-4ba6-aa8b-d9a290ca9508)
